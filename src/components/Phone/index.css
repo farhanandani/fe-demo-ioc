@@ -1,0 +1,23 @@
+.custom-button-send-call {
+  color: white;
+  background-color: #6b4eff;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.custom-button-send-call:hover {
+  background-color: #573cd8;
+  transform: scale(1.02);
+}
+
+.custom-button-cancel {
+  color: white;
+  background-color: #ff0000;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.custom-button-cancel:hover {
+  background-color: #573cd8;
+  transform: scale(1.02);
+}
