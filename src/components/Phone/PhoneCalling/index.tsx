@@ -173,7 +173,7 @@ function PhoneCalling() {
             alt="caller"
           />
           <p className="text-2xl font-bold mt-4 text-center">
-            Infomedia Operating Center
+            Infomedia Operation Center
           </p>
 
           <div className="flex gap-[40px] items-center mt-6">

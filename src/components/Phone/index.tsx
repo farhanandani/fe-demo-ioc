@@ -137,7 +137,7 @@ function PhoneInterface() {
               <div className="flex flex-col gap-5 items-center bg-white h-[250px] pb-8">
                 <div className="flex flex-col gap-2 items-center">
                   <h1 className="text-2xl font-bold text-center">
-                    Infomedia Operating Center
+                    Infomedia Operation Center
                   </h1>
                   <p className="text-sm text-gray-500">Voicebot IOC</p>
                 </div>
